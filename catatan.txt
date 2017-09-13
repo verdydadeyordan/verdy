@@ -1,4 +1,0 @@
-1. tambah dropdown periode  mandatory
-2. tambah dropdown unit mandatory
-
-1. get position by organisasi
